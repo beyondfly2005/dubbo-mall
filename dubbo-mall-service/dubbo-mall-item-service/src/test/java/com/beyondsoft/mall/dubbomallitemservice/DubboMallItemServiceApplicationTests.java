@@ -1,14 +1,13 @@
-package com.beyondsoft.mall.dubbomallbackground;
+package com.beyondsoft.mall.dubbomallitemservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DubboMallBackgroundApplicationTests {
+class DubboMallItemServiceApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("AA");
     }
 
 }

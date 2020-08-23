@@ -9,11 +9,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>dubbo-mall-api</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>dubbo-mall-item-api</module>
-    </modules>
+    <artifactId>dubbo-mall-temp</artifactId>
 
+    <modules>
+        <module>freemarker</module>
+    </modules>
 
 </project>

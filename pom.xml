@@ -16,6 +16,8 @@
         <module>dubbo-mall-basic/dubbo-mall-entity</module>
         <module>dubbo-mall-basic/dubbo-mall-mapper</module>
         <module>dubbo-mall-api/dubbo-mall-product-api</module>
+        <module>dubbo-mall-temp</module>
+        <module>dubbo-mall-temp/rabbitmq-java</module>
     </modules>
 
 
