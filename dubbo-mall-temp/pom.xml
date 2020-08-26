@@ -13,6 +13,8 @@
 
     <modules>
         <module>freemarker</module>
+        <module>rabbitmq-java</module>
+        <module>rabbitmq-springboot</module>
     </modules>
 
 </project>

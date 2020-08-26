@@ -17,11 +17,11 @@ class DubboMallApplicationTests {
 
     @Test
     void contextLoads() {
-        simpleSender.send("SpringBoot整合RabbmitMQ成功！");
+        simpleSender.send("SpringBoot整合RabbitMQ成功！");
     }
 
     @Test
     void testPublishSender() {
-        sender.send("SpringBoot整合RabbmitMQ成功！");
+        sender.send("SpringBoot整合RabbitMQ成功！");
     }
 }

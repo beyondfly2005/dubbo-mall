@@ -9,9 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.beyondsoft</groupId>
-    <artifactId>dubbo-mall</artifactId>
+    <artifactId>rabbitmq-springboot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>dubbo-mall</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
